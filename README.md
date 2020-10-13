@@ -14,7 +14,7 @@ IDF0 диаграмма:
 
 Диаграмма классов:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/ClassDiagramm.png)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/ClassD.png)
 
 
 Диаграмма прецедентов:
