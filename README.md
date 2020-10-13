@@ -8,15 +8,15 @@
 
 IDF0 диаграмма:
 
-![A](https://)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/IDF0.png)
 
 Рабочий должен изготовить деталь в соответствии с чертежом, используя заготовку и станок. 
 
 Диаграмма классов:
 
-![A](https://github.com/)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/class.png)
 
 
 Диаграмма прецедентов:
 
-![A](https://github.com/)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/usecase.png)
