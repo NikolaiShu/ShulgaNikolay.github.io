@@ -8,7 +8,7 @@
 
 IDF0 диаграмма:
 
-![A](https://github.com/alexvolk228/VolkovAlexey/blob/master/lab1/idf0.png)
+![A](https://)
 
 Рабочий должен изготовить деталь в соответствии с чертежом, используя заготовку и станок. 
 
