@@ -26,7 +26,7 @@ IDF0 диаграмма:
 
 IDF0 диаграмма:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDF02.1.png?raw=true)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDF02.png?raw=true)
 
 ![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDF02.2.png?raw=true)
 
