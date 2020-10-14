@@ -24,14 +24,15 @@ IDF0 диаграмма:
 
 ## Лабораторная работа №2
 
-IDF0 диаграмма
+IDF0 диаграмма:
 
-![A]()
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDFO1.png?raw=true)
 
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDFO2.png?raw=true)
 
-![A]()
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/DFD.png?raw=true)
 
 
 Диаграмма прецедентов:
 
-![A]()
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/UsecaseLab2.png?raw=true)
