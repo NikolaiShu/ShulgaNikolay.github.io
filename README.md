@@ -26,11 +26,11 @@ IDF0 диаграмма:
 
 IDF0 диаграмма:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDFO1.png?raw=true)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDF02.1.png?raw=true)
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDFO2.png?raw=true)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/IDF02.2.png?raw=true)
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/DFD.png?raw=true)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab2/DFD2.png?raw=true)
 
 
 Диаграмма прецедентов:
