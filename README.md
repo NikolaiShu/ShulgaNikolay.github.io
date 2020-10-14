@@ -8,15 +8,30 @@
 
 IDF0 диаграмма:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/IDF0.png)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/IDF0.png?raw=true)
 
 Рабочий должен изготовить деталь в соответствии с чертежом, используя заготовку и станок. 
 
 Диаграмма классов:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/ClassD.png)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/ClassD.png?raw=true)
 
 
 Диаграмма прецедентов:
 
-![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/UseCaseDiagramm.png)
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab1/UseCaseDiagramm.png?raw=true)
+
+
+## Лабораторная работа №2
+
+IDF0 диаграмма
+
+![A]()
+
+
+![A]()
+
+
+Диаграмма прецедентов:
+
+![A]()
