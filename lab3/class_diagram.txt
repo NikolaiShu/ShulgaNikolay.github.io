@@ -12,13 +12,13 @@ class Data as "Запись в базе данных"
 class Order as "Заказ"
 
 class Worker as "Исполнитель"
-class Description as "Чертеж"
+class Drawing as "Чертеж"
 class Date as "Дата"
 
 ControlInfo <|-- Data 
 Data <|-- Order
 Order *-- Worker
-Order *-- Description
+Order *-- Drawing
 Order *-- Date
 
 hide members
