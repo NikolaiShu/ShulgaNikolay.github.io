@@ -56,16 +56,16 @@ IDF0 диаграмма:
 
 Диаграмма последовательности
 
-[Текст]() и [рисунок]() диаграммы последовательности. 
+[Текст](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/sequence_diagram.txt?raw=true) и [рисунок](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/sequence_diagram.png?raw=true) диаграммы последовательности. 
 
-![A]()
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/sequence_diagram.png?raw=true)
 
 Продавец после процесса аутентификации получает доступ к CRM-системе и создаёт заказ, который содержит данные об исполнителе, дате и чертеже, при поомщи интерфейса программы, после чего конструктор на получает данный заказ на своей стороне при помощи установленной CRM-системы.
 
-ER-диаграмма
+Диаграмма классов
 
-[Текст]() и [рисунок]() диаграммы классов. 
+[Текст](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/class_diagram.txt?raw=true) и [рисунок](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/class_diagram.png?raw=true) диаграммы классов. 
 
-![A]()
+![A](https://github.com/NikolaiShu/ShulgaNikolay.github.io/blob/main/lab3/class_diagram.png?raw=true)
 
 Заказ - это запись в базе данных, которая относится к информационным потокам, и состоит из: исполнителя, чертежа, даты.
