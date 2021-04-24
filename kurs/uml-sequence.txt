@@ -1,0 +1,33 @@
+@startuml
+skinparam monochrome true
+
+actor Менеджер_по_продажам as user
+participant "Веб-приложение" as WA
+participant "Сервер" as Server
+database "База данных" as DB
+
+user -> WA : Добавление товаров в корзину
+activate WA
+WA -> Server : Формирование корзины во временном хранилище
+activate Server
+Server -> WA : Товары добавлены в корзину
+deactivate Server
+WA -> user : Отображение информации по корзине 
+deactivate WA
+
+user -> WA : Оформление заказа
+activate WA
+WA -> Server : Данные по заказу
+activate Server
+Server -> DB : Запрос информации по товарам
+activate DB
+DB -> Server : Данные по запрошенным товарам
+Server -> Server : Обработка данных по товарам в заказе
+Server -> DB : Добавление нового заказа
+DB -> Server : Успешное добавление
+Server -> WA : Передача результата
+WA -> user : Отображение результата оформления заказа
+deactivate DB
+deactivate Server
+deactivate WA
+@enduml
