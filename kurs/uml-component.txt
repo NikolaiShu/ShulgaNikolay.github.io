@@ -1,0 +1,15 @@
+@startuml
+skinparam monochrome true
+
+component [Веб-приложение] as WA
+component [Сервер] as Server
+component [База данных] as DB
+
+() "LAN" as LAN
+() "HTTP" as HTTP
+
+WA - HTTP
+HTTP - Server
+Server - LAN
+LAN - DB
+@enduml
