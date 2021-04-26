@@ -1,0 +1,42 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+hide circle
+hide methods
+
+class Auto_part {
+   part_id : number
+   part_name : text
+   manufacturer : text
+   description : text
+}
+class Order {
+   order_id : number
+   client : number
+   worker_id : number
+   order_date: date
+   oder_description : text
+   order_price : number
+}
+class Worker {
+   worker_id : number
+   worker_fio : text
+   worker_phone : text
+   position : text
+   worker_login : text
+   worker_password : text
+}
+class Order_details {
+   order_id : number
+   part_id : number
+   num_in_order : number
+   retail_price : number
+}
+
+Order --* Worker
+Order --* Auto_part  
+Order *-- Order_details
+@enduml
